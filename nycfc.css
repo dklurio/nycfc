@@ -1,0 +1,14 @@
+@charset "utf-8"
+
+main{background:'#65C6FF';}
+
+h2,h3{font-family:'Roboto','sans-serif';
+	 font-weight:'normal';}
+
+p{font-family: 'Open Sans', 'sans-serif';}
+
+#logo{font-weight:'normal'; 
+  font-family: 'Shrikhand', 'cursive';
+  background-color:'blue';
+  text-align:'center';
+  font-size:'54px';}
